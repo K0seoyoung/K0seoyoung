@@ -54,4 +54,6 @@
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,100:0582f6&height=180&animation=fadeIn&fontColor=f3f4f6&fontSize=50&section=footer" />
     </div>
 </div>
+
+
     
