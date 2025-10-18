@@ -13,7 +13,6 @@
   <div align="center">
       <img src="https://github-profile-trophy.vercel.app?username=K0seoyoung&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br />
   </div>
-
   <br />
   <br />
   <br />
